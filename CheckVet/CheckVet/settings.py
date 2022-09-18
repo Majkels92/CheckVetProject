@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'documents.apps.DocumentsConfig',
     'price_list.apps.Price_listConfig',
     'patient.apps.PatientConfig',
+    'users.apps.UsersConfig',
 
 ]
 
