@@ -38,12 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'start.apps.StartConfig',
-    'wizyty.apps.WizytyConfig',
-    'klient.apps.KlientConfig',
-    'magazyn.apps.MagazynConfig',
-    'dokumenty.apps.DokumentyConfig',
-    'cennik.apps.CennikConfig',
-    'pacjent.apps.PacjentConfig',
+    'appointment.apps.AppointmentsConfig',
+    'client.apps.ClientConfig',
+    'werehouse.apps.WerehouseConfig',
+    'documents.apps.DocumentsConfig',
+    'price_list.apps.Price_listConfig',
+    'patient.apps.PatientConfig',
 
 ]
 
