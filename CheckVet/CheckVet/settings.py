@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'start.apps.StartConfig',
-    'appointment.apps.AppointmentsConfig',
+    'appointment.apps.AppointmentConfig',
     'client.apps.ClientConfig',
     'werehouse.apps.WerehouseConfig',
     'documents.apps.DocumentsConfig',
